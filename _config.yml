@@ -17,3 +17,12 @@ $(document).ready(function() {
 
 });
  /*Scroll to top when arrow up clicked END*/
+ <a class="trigger_popup_fricc">Click here to show the popup</a>
+
+<div class="hover_bkgr_fricc">
+    <span class="helper"></span>
+    <div>
+        <div class="popupCloseButton">&times;</div>
+        <p>Add any HTML content<br />hiii!</p>
+    </div>
+</div>
